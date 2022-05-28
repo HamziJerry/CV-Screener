@@ -4,3 +4,4 @@ This application simply do the screening of the resume with custom styling. This
 
 # Live Working Project Url
 
+https://hamzijerry.github.io/CV-Screener/
